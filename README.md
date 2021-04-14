@@ -41,12 +41,12 @@ git remote add upstream https://github.com/Theodhor21/MSI_2021.git
    pushed to the remote fork-repo
 
 ```bash
-git pull upstream master
-git push origin master
+git pull upstream main
+git push origin main
 ```
 
 ### Adding feature
-3. **Create new branch to work on**. Branch from `develop` if it exists else from`master`
+3. **Create new branch to work on**. Branch from `develop` if it exists else from`main`
 
 ```bash
 # create branch and then checkout
@@ -74,7 +74,7 @@ git commit -a -m "added new file for obvious reasons"
 
 ```bash
 # Start an interactive rebase, which allows the commits to be reordered, omitted, combined or modified
-git rebase -i master
+git rebase -i main
 ```
 
 6. Push the new branch with changes to remote fork-repo(`origin`) on Github.
@@ -84,7 +84,7 @@ git push origin new_branch
 ```
 
 7. From the remote-fork-repo open a pull request in the branch with the changes.
-   Target `develop` or `master` branch of the original-project.
+   Target `develop` or `main` branch of the original-project.
 
 ![image-20210407103657478](assets/image-20210407103657478.png)
 
@@ -92,8 +92,8 @@ git push origin new_branch
    the remote-fork-repo by pushing.
 
 ```bash
-git pull upstream master
-git push origin master
+git pull upstream main
+git push origin main
 ```
 
 
