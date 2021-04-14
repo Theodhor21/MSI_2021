@@ -26,7 +26,7 @@ contribute in a project involving multiple contributors we follow something like
 ```bash
 # clone and enter
 git clone https://github.com/Theodhor21/MSI_2021.git
-cd returnn
+cd MSI_2021
 # check out the default remotes
 git remote -v
 # remove unwanted remote
