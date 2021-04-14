@@ -3,7 +3,7 @@ Here we host the project from MIS 2021 at FH Aachen
 
 
 # How to contribute with Git
-
+[Git Introduction Video](https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF&index=3&ab_channel=freeCodeCamp.org)
 The issues that keep me comming back consist of:
 - Understanding git
   * how to contribute(pull request, sync fork, rebase ..)
