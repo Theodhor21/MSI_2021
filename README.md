@@ -9,7 +9,7 @@ The issues that keep me comming back consist of:
   * how to contribute(pull request, sync fork, rebase ..)
   * reverse commits
 
-...........................................................
+...
 ## Git
 
 In git we have branches and commits all is easy and relaxed. Now, if we want to
