@@ -2,8 +2,6 @@
 Here we host the project from MIS 2021 at FH Aachen
 
 
-##### Tue Apr  6 12:47:16 2021
-
 # How to contribute with Git
 
 The issues that keep me comming back consist of:
@@ -27,16 +25,16 @@ contribute in a project involving multiple contributors we follow something like
 
 ```bash
 # clone and enter
-git clone https://github.com/jotix16/returnn.git
+git clone https://github.com/Theodhor21/MSI_2021.git
 cd returnn
 # check out the default remotes
 git remote -v
 # remove unwanted remote
 git remote remove origin
 # 1. add origin remote to the fork
-git remote add origin https://github.com/jotix16/returnn.git
+git remote add origin https://github.com/[myusername]/MSI_2021.git
 # 2. add upstream remote to the original repo
-git remote add upstream https://github.com/rwth-i6/returnn.git
+git remote add upstream https://github.com/Theodhor21/MSI_2021.git
 ```
 
 3. Changes done in the original-repo are pulled localy and than if required
