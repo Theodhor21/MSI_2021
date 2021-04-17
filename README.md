@@ -16,7 +16,7 @@ The issues that keep me comming back consist of:
 In git we have branches and commits all is easy and relaxed. Now, if we want to
 contribute in a project involving multiple contributors we follow something like: 
 
-## Setting UP
+## Setting Up
 0. Create a personal fork of the original-project on Github
 
 ![image-20210407100544538](assets/image-20210407100544538.png)
